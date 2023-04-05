@@ -1,0 +1,2 @@
+# mssivimss-hoja-sub-consig
+CU037_GenerarHojaSubrogacion_SIVIMSS Y CU039_GenerarHojaConsignacion_SIVIMSS
